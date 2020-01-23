@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\DotNetBerlinClock-master\bin\Debug\BerlinClock.dll.config
+C:\Users\DELL\source\repos\DotNetBerlinClock-master\bin\Debug\BerlinClock.dll
+C:\Users\DELL\source\repos\DotNetBerlinClock-master\bin\Debug\BerlinClock.pdb
+C:\Users\DELL\source\repos\DotNetBerlinClock-master\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\DELL\source\repos\DotNetBerlinClock-master\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\DELL\source\repos\DotNetBerlinClock-master\obj\Debug\BerlinClock.csproj.CopyComplete
+C:\Users\DELL\source\repos\DotNetBerlinClock-master\obj\Debug\BerlinClock.dll
+C:\Users\DELL\source\repos\DotNetBerlinClock-master\obj\Debug\BerlinClock.pdb
